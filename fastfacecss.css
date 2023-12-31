@@ -1,0 +1,120 @@
+*{
+    margin:1px auto ;
+    padding: 0 ;
+    
+
+
+}
+
+/*head box str */
+.box{
+    width: 100%;
+    
+    text-align: center;
+    background-image: url(IMG/bac6.JPG);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 100%;
+    width:1353px ;
+    height:1200px ;
+}
+
+
+
+.box h1{
+    margin-right:560PX ;
+    margin-left:20PX;
+    margin-top: 0PX;
+    
+    font-size: 60px;
+    border-radius: 50px;
+    border-spacing: 30px;
+    color: rgb(0, 0, 0);
+    background-color:rgba(251, 249, 249, 0.77);
+}
+
+
+.box h4{
+    text-transform: capitalize;
+    color: white;
+    margin-left: 1090px;
+    margin-right: 3px;
+    margin-top:0;
+    font-size: 20px;
+}
+
+
+.box h4 P{
+    padding:10px;
+    color: brown;
+    background-color: rgba(240, 248, 255, 0.417);
+    border: 3PX solid white;
+    border-radius: 50PX;
+
+}
+
+
+
+
+
+
+.box h1 img{
+    width: 60px;
+    border: 10px solid rgb(100, 246, 9);
+    border-radius: 60px;
+}
+
+.box main a{
+    border: 1px solid;
+    border-radius: 30px;
+    padding:  auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 255, 0.51);
+    font-size: 30px;
+    margin: 15px;
+    color: rgb(235, 246, 240);
+}
+
+
+
+.box h3 a{
+    background-color: rgb(255, 0, 0);
+    border: 25px solid rgb(255, 10, 10) ;
+    border-radius: 100px;
+    margin: auto;
+    padding: auto;
+    color: aliceblue;
+    font-size: 80px;
+    
+}
+
+
+.box h5{
+    margin-right:560PX ;
+    margin-left:20PX;
+    margin-top: 0PX;
+    
+    font-size: 60px;
+    border-radius: 50px;
+    border-spacing: 30px;
+    color: rgb(0, 0, 0);
+    background-color:rgba(251, 249, 249, 0.77);
+}
+
+
+.box h5 img{
+    width: 60px;
+    border: 5px solid rgba(3, 246, 84, 0.777);
+    border-radius: 60px;
+}
+
+
+.box h5 p img{
+    width: 200px;
+    border: 5px solid rgba(3, 246, 84, 0.777);
+    border-radius: 60px;
+}
+
+
+
+/*head box fns*/
